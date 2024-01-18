@@ -7,6 +7,7 @@ namespace Manager.Domain.Validators
     {
         public UserValidator()
         {
+            // Validação dos campos
             RuleFor(x => x)
                 .NotEmpty()
                 .WithMessage("A entidade não pode ser vazia.")
