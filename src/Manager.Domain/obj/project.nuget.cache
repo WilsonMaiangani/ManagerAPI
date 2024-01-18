@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZgOUHZgJtIJE2GRyrK693Ti1tO8gibBFVpUU8EAjGs+2GizojK5eLYkZt6wL9EayapUNyUSSoN2uZdlDAp9ezQ==",
+  "dgSpecHash": "pn6iE2FZXf8IkFCE1+BqTI3tFSDHRRn9ksx62HPofo0aWj1LQprOFQ6eOGyALpUVHrLr1A2XkCcS214K2QSYYA==",
   "success": true,
   "projectFilePath": "D:\\Projeto\\DotNet\\Manager\\src\\Manager.Domain\\Manager.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\alifa\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,11 @@
+D:\Projeto\DotNet\Manager\src\Manager.Core\bin\Debug\net8.0\Manager.Core.deps.json
+D:\Projeto\DotNet\Manager\src\Manager.Core\bin\Debug\net8.0\Manager.Core.dll
+D:\Projeto\DotNet\Manager\src\Manager.Core\bin\Debug\net8.0\Manager.Core.pdb
+D:\Projeto\DotNet\Manager\src\Manager.Core\obj\Debug\net8.0\Manager.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto\DotNet\Manager\src\Manager.Core\obj\Debug\net8.0\Manager.Core.AssemblyInfoInputs.cache
+D:\Projeto\DotNet\Manager\src\Manager.Core\obj\Debug\net8.0\Manager.Core.AssemblyInfo.cs
+D:\Projeto\DotNet\Manager\src\Manager.Core\obj\Debug\net8.0\Manager.Core.csproj.CoreCompileInputs.cache
+D:\Projeto\DotNet\Manager\src\Manager.Core\obj\Debug\net8.0\Manager.Core.dll
+D:\Projeto\DotNet\Manager\src\Manager.Core\obj\Debug\net8.0\refint\Manager.Core.dll
+D:\Projeto\DotNet\Manager\src\Manager.Core\obj\Debug\net8.0\Manager.Core.pdb
+D:\Projeto\DotNet\Manager\src\Manager.Core\obj\Debug\net8.0\ref\Manager.Core.dll

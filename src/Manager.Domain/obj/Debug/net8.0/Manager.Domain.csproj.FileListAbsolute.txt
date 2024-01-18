@@ -1,0 +1,15 @@
+D:\Projeto\DotNet\Manager\src\Manager.Domain\bin\Debug\net8.0\Manager.Domain.deps.json
+D:\Projeto\DotNet\Manager\src\Manager.Domain\bin\Debug\net8.0\Manager.Domain.dll
+D:\Projeto\DotNet\Manager\src\Manager.Domain\bin\Debug\net8.0\Manager.Domain.pdb
+D:\Projeto\DotNet\Manager\src\Manager.Domain\bin\Debug\net8.0\Manager.Core.dll
+D:\Projeto\DotNet\Manager\src\Manager.Domain\bin\Debug\net8.0\Manager.Core.pdb
+D:\Projeto\DotNet\Manager\src\Manager.Domain\obj\Debug\net8.0\Manager.Domain.csproj.AssemblyReference.cache
+D:\Projeto\DotNet\Manager\src\Manager.Domain\obj\Debug\net8.0\Manager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto\DotNet\Manager\src\Manager.Domain\obj\Debug\net8.0\Manager.Domain.AssemblyInfoInputs.cache
+D:\Projeto\DotNet\Manager\src\Manager.Domain\obj\Debug\net8.0\Manager.Domain.AssemblyInfo.cs
+D:\Projeto\DotNet\Manager\src\Manager.Domain\obj\Debug\net8.0\Manager.Domain.csproj.CoreCompileInputs.cache
+D:\Projeto\DotNet\Manager\src\Manager.Domain\obj\Debug\net8.0\Manager.Domain.csproj.CopyComplete
+D:\Projeto\DotNet\Manager\src\Manager.Domain\obj\Debug\net8.0\Manager.Domain.dll
+D:\Projeto\DotNet\Manager\src\Manager.Domain\obj\Debug\net8.0\refint\Manager.Domain.dll
+D:\Projeto\DotNet\Manager\src\Manager.Domain\obj\Debug\net8.0\Manager.Domain.pdb
+D:\Projeto\DotNet\Manager\src\Manager.Domain\obj\Debug\net8.0\ref\Manager.Domain.dll
